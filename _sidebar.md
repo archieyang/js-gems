@@ -8,3 +8,5 @@
 - [Check instanceof](check-instanceof.md)
 - [Check undefined](check-undefined.md)
 - [Reflect.ownKeys()](ownKeys.md)
+- [Sparse Array](sparse-array.md)
+- [Global Scope Properties](global-scope-properties.md)

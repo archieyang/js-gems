@@ -12,3 +12,21 @@ for (let [idx, val] of arr.entries()) {
 // [1]: 20
 // [2]: 30
 ```
+
+## for...in vs for...of
+
+```ts
+let arr = ["Alice", "Bob", "Catherine"];
+
+arr.someone = "Dan";
+
+// Prints 0, 1, 2 and someone
+for (let key in arr) {
+  console.log(key);
+}
+
+// Prints Alice, Bob and Catherine
+for (let value of arr) {
+  console.log(value);
+}
+```
