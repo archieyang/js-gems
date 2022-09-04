@@ -11,3 +11,4 @@
 - [Sparse Array](sparse-array.md)
 - [Global Scope Properties](global-scope-properties.md)
 - [Function Declaration vs Function Expression](fun-declaration-vs-expression.md)
+- [Implied Scopes](implied-scopes.md)
