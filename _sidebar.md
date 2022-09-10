@@ -12,3 +12,6 @@
 - [Global Scope Properties](global-scope-properties.md)
 - [Function Declaration vs Function Expression](fun-declaration-vs-expression.md)
 - [Implied Scopes](implied-scopes.md)
+- [Array Methods](array-methods.md)
+- [Optional Parameter vs Optional Chaining](optionals.md)
+- [keyof Type Operator](keyof-type-operator.md)
