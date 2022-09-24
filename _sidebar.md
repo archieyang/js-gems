@@ -15,3 +15,4 @@
 - [Array Methods](array-methods.md)
 - [Optional Parameter vs Optional Chaining](optionals.md)
 - [keyof Type Operator](keyof-type-operator.md)
+- [Mapped Types](mapped-types.md)
