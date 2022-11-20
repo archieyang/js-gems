@@ -20,3 +20,4 @@
 - [Optional Parameter vs Optional Chaining](optionals.md)
 - [keyof Type Operator](keyof-type-operator.md)
 - [Mapped Types](mapped-types.md)
+- [Do Not Mix async and sync(Why you should use async keyword)](do-not-mix-async-and-sync.md)
